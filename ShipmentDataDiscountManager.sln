@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShipmentDataDiscountManager", "ShipmentDataDiscountManager\ShipmentDataDiscountManager.csproj", "{9C184F60-C143-4C4C-905F-36FBFD789B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipmentDataDiscountManager.Tests", "ShipmentDataDiscountManager.Tests\ShipmentDataDiscountManager.Tests.csproj", "{03B68269-F8CF-4571-88F3-CDAD3294A358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C184F60-C143-4C4C-905F-36FBFD789B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C184F60-C143-4C4C-905F-36FBFD789B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C184F60-C143-4C4C-905F-36FBFD789B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C184F60-C143-4C4C-905F-36FBFD789B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B68269-F8CF-4571-88F3-CDAD3294A358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B68269-F8CF-4571-88F3-CDAD3294A358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B68269-F8CF-4571-88F3-CDAD3294A358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B68269-F8CF-4571-88F3-CDAD3294A358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D732DA5-CFFB-4765-B510-AC512F9C553B}
+	EndGlobalSection
+EndGlobal
