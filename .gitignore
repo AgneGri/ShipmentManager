@@ -206,6 +206,4 @@ FakesAssemblies/
 .cr/
 sh.exe.stackdump
 .cr/
-# passwords
-appsettings.json
 
