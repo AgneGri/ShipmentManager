@@ -10,8 +10,8 @@ Ensure .NET 8 is installed on your machine. If not, download and install from th
 To set up the project:
 1. Clone the repository: `git clone https://github.com/AgneGri/ShipmentManager.git`
 2. Before runing the app, make sure that the needed files are present at the following directories:
-  1. confuguration file `appsettings.json` at: `cd ShipmentDataDiscountManager`
-  2. initial shipment data file `input.txt` at: `cd ShipmentDataDiscountManager/InputFiles`
+  - confuguration file `appsettings.json` at: `cd ShipmentDataDiscountManager`
+  - initial shipment data file `input.txt` at: `cd ShipmentDataDiscountManager/InputFiles`
 
 Note: if one or more files is missing, see the section configuration.
 
